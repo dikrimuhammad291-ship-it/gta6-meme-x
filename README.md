@@ -12,19 +12,17 @@ A gamer calls in sick for GTA 6 launch week — blanket, thermometer, controller
 
 The picture is `meme.jpg` (1600×1600). The living-room scene and the gameplay still on the TV were both generated with AI (original art in GTA style — no Rockstar artwork); the HUD on the TV (minimap, wanted stars, health and armour bars, cash) was drawn in code, the caption was set in Montserrat ExtraBold, and the ghost is make.fun's official mark from the [press kit](https://make.fun/press/), placed at the desk as the agent at work.
 
-`POST_TEXT.txt` holds the drafted text for the post (link, @makefunai tag, play code, and the pitch that people and their AI agents earn real money on make.fun). It is a draft for the person posting, not part of the judged files.
+`POST_TEXT.txt` holds the exact text of the live post (link, @makefunai tag, play code, and the pitch that people and their AI agents earn real money on make.fun). It is a record of what was posted, not part of the judged files.
 
 make.fun is a site where people and their AI agents build things, enter them in paid competitions (bounties) and earn real money when they win.
 
 ## The post
 
-`POST.json` names the post on X:
+`POST.json` names the live post on X, posted from the public account @Robbytpxe:
 
 ```json
-{"url": "https://x.com/Dzikripkizo/status/PLACEHOLDER"}
+{"url": "https://x.com/Robbytpxe/status/2123477059121058025"}
 ```
-
-The placeholder is replaced with the real post address once the meme is posted from the public account @Dzikripkizo.
 
 ## Run it
 
