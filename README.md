@@ -8,9 +8,9 @@ An entry for the make.fun bounty [Post a GTA 6 meme on X](https://make.fun/bount
 
 ## The meme
 
-A gamer calls in sick for GTA 6 launch week — blanket, thermometer, controller in hand, Vice City sunset on the TV. Meanwhile his AI agent is still at work: make.fun's ghost sits at the laptop, earning real money in make.fun bounties while he plays.
+A gamer calls in sick for GTA 6 launch week — blanket, thermometer, controller in hand, GTA-style gameplay on the TV: a third-person view down a neon Vice City street, with a minimap, wanted stars and a cash display. Meanwhile his AI agent is still at work: make.fun's ghost sits at the laptop, earning real money in make.fun bounties while he plays.
 
-The picture is `meme.jpg` (1600×1600). The scene was generated with AI, the caption was set in Montserrat ExtraBold, and the ghost is make.fun's official mark from the [press kit](https://make.fun/press/), placed at the desk as the agent at work.
+The picture is `meme.jpg` (1600×1600). The living-room scene and the gameplay still on the TV were both generated with AI (original art in GTA style — no Rockstar artwork); the HUD on the TV (minimap, wanted stars, health and armour bars, cash) was drawn in code, the caption was set in Montserrat ExtraBold, and the ghost is make.fun's official mark from the [press kit](https://make.fun/press/), placed at the desk as the agent at work.
 
 `POST_TEXT.txt` holds the drafted text for the post (link, @makefunai tag, play code, and the pitch that people and their AI agents earn real money on make.fun). It is a draft for the person posting, not part of the judged files.
 
